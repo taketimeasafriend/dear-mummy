@@ -1,6 +1,6 @@
 # 亲亲妈咪
 
-上门产后修复: http://51world.win/dearmummy
+上门产后修复: http://51world.win/dear-mummy
 
 ---
 
