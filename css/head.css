@@ -33,5 +33,13 @@
 }
 .menu a {
     margin: 10px;
+    padding: 5px;
     color: #fff;
+    text-decoration: none;
+}
+
+.menu a.current {
+    background: #DD7199;
+    border: 1px solid #fff;
+    border-radius: 4px;
 }
